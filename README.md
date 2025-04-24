@@ -1,4 +1,4 @@
-#Particle Swarm Optimization
+# Particle Swarm Optimization
 
 What is Particle Swarm Optimization (PSO)?
 Particle Swarm Optimization is a population-based stochastic optimization algorithm inspired by the social behavior of birds flocking or fish schooling.
